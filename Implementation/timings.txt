@@ -1,0 +1,147 @@
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '1_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 'p']:14.421261072158813
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '2_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p']:15.342814683914185
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:16.290513515472412
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-tf', 'n', '-idf', 't']:18.598859548568726
+['main.py', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:16.29099988937378
+['main.py', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-tf', 'n', '-idf', 't']:21.69000005722046
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't']:15.727999925613403
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-tf', 'n', '-idf', 't']:19.013999938964844
+['main.py', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't']:16.13803243637085
+['main.py', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-tf', 'n', '-idf', 't']:21.084108114242554
+['main.py', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-tf', 'n', '-idf', 't']:19.617961645126343
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-n', '-1']:17.66676640510559
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-n', '-1']:17.75077486038208
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-n', '300']:15.32253885269165
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-n', '800']:12.106531143188477
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-n', '11']:12.79886507987976
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-n', '12']:13.646490812301636
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'l', '-tf', 'n', '-idf', 't']:15.057375192642212
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 's', '-tf', 'n', '-idf', 't']:14.689727544784546
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-tf', 'n', '-idf', 't']:15.306753396987915
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'lem', '-tf', 'n', '-idf', 't']:18.067901849746704
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'l', '-tf', 'n', '-idf', 't']:15.531572341918945
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't']:14.103397607803345
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't']:12.851264476776123
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-tf', 'n', '-idf', 't']:18.24666452407837
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-tf', 'n', '-idf', 't']:17.157397985458374
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'percent_500_5_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't']:12.491360664367676
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'run_results.txt', '-tf', 'n', '-idf', 't', '-n', '-1', '-m', 'p']:13.929002285003662
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'run_results.txt', '-tf', 'n', '-idf', 't', '-n', '-1', '-m', 'p']:13.698952674865723
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:15.955263376235962
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '1_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 'p']:13.449846982955933
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '2_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p']:13.898176193237305
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '3_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 'p']:153.58567905426025
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '4_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 'p']:15.64609169960022
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '5_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't']:16.236648559570312
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '6_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 't']:15.958193063735962
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 't']:134.23360896110535
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '8_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 't']:14.327820539474487
+['main.py', '-c', 'documents.txt', '-i', 'william.txt', '-o', '9_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't']:16.308993339538574
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '10_run_results.txt']:17.390744924545288
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:11.042999982833862
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:11.502000093460083
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:13.931999921798706
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-I', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p', '-n', '-1']:11.698169708251953
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-tf', 'n', '-idf', 't', '-q', '30']:18.801504135131836
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-I', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p', '-n', '-1']:117.1953911781311
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-I', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:94.07397437095642
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-I', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:95.42948985099792
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-I', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:107.82336091995239
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:127.40530467033386
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:3.4610989093780518
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:3.388631820678711
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:121.65665864944458
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:107.65666818618774
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:2.9277846813201904
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:113.06923699378967
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'r_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p']:110.59382891654968
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '1_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 'p']:127.81407165527344
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '2_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p']:129.41597270965576
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '3_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 'p']:137.22968459129333
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '4_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 'p']:112.90873670578003
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '5_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't']:107.25959014892578
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '6_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 't']:119.34403491020203
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 't']:114.98720860481262
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '8_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 't']:117.52754926681519
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p']:129.42489051818848
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p']:14.74539041519165
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p', '-q', '10', '-F']:4.371372938156128
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-F', '-n', '-1']:128.72782015800476
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '1_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 'p']:14.650965690612793
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '2_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p']:14.758220434188843
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '3_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 'p']:160.7452027797699
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '4_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 'p']:15.183748006820679
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '5_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't']:15.083322525024414
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '6_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 't']:14.640077590942383
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 't']:137.42572164535522
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '8_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 't']:14.642199516296387
+['main.py', '-c', 'documents.txt', '-i', 'william.txt', '-o', '9_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't']:16.629631757736206
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '10_run_results.txt']:18.421597003936768
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '1_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 'p', '-F']:138.71731328964233
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '2_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p', '-F']:133.26850533485413
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '3_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 'p', '-F']:140.31055665016174
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '4_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 'p']:15.678166389465332
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '5_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-F', '-n', '100']:134.99505305290222
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '6_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 't', '-F']:121.94311022758484
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 't']:139.61303734779358
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '8_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 't', '-F']:123.49690890312195
+['main.py', '-c', 'documents.txt', '-i', 'william.txt', '-o', '9_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-F']:232.4003701210022
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '10_run_results.txt', '-F']:92.52453017234802
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-F', '-n', '-1']:113.46569776535034
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-F', '-n', '-1', '-I']:108.00612115859985
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-I', '-o', 'best_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p', '-n', '-1', '-F']:101.46566009521484
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'f_run_results.txt', '-tf', 'n', '-idf', 't', '-r', '5', '-q', '30']:25.371618032455444
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 'p']:16.403905868530273
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-F', '-n', '-1']:110.89258003234863
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '1_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 'p', '-F']:111.34081053733826
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '2_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p']:13.233781099319458
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '3_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 'p']:149.7302746772766
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '4_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 'p']:13.10815954208374
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '5_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't']:13.156558990478516
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '6_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 't']:12.908912658691406
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 't']:128.04135131835938
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '8_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 't']:12.862573862075806
+['main.py', '-c', 'documents.txt', '-i', 'william.txt', '-o', '9_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't']:14.255223751068115
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '10_run_results.txt']:14.994296312332153
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'best_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p', '-n', '-1', '-F']:97.33000016212463
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'best_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p', '-n', '-1', '-F', '-I']:93.19000005722046
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'best_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p', '-n', '-1', '-F', '-I']:4.749762535095215
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'best_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p', '-F', '-I']:4.869951248168945
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '1_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 'p', '-F']:7.012499809265137
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '2_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p']:12.664999961853027
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '1_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 'p', '-F']:7.107499837875366
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '2_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p', '-F']:6.972499847412109
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '3_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 'p', '-F']:7.042500019073486
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '4_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 'p', '-F']:6.930000066757202
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '5_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-F']:6.829999923706055
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '6_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 't', '-F']:6.802500009536743
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 't', '-F']:6.877500057220459
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '8_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 't', '-F']:6.732500076293945
+['main.py', '-c', 'documents.txt', '-i', 'william.txt', '-o', '9_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-F']:8.375
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '10_run_results.txt', '-F']:8.514999866485596
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'best_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p', '-F', '-n', '-1']:8.692000150680542
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '1_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 'p', '-F']:10.922699689865112
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '2_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p', '-F']:11.50423812866211
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '3_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 'p', '-F']:10.909465551376343
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '4_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 'p', '-F']:9.920709371566772
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '5_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-F']:9.224055051803589
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '6_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 't', '-F']:9.79893684387207
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 't', '-F']:8.794024467468262
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '8_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 't', '-F']:7.634666681289673
+['main.py', '-c', 'documents.txt', '-i', 'william.txt', '-o', '9_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-F']:10.374718189239502
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '10_run_results.txt', '-F']:9.136098384857178
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '1_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 'p', '-F', '-n', '-1']:8.531402826309204
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '2_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p', '-F', '-n', '-1']:8.353762149810791
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '3_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 'p', '-F']:8.526836633682251
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '4_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 'p', '-F']:9.01633882522583
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '5_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-F']:9.303349733352661
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '6_run_results.txt', '-m', 'p', '-tf', 'l', '-idf', 't', '-F']:8.709658861160278
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '7_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 't', '-F']:9.253955602645874
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '8_run_results.txt', '-m', 'p', '-tf', 'b', '-idf', 't', '-F']:9.197318077087402
+['main.py', '-c', 'documents.txt', '-i', 'william.txt', '-o', '9_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 't', '-F']:10.410039901733398
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '10_run_results.txt', '-F']:8.425223112106323
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '2_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p', '-F', '-n', '-1']:8.285984992980957
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '3_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 'p', '-F']:8.481403589248657
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '2_run_results.txt', '-m', 'p', '-tf', 'n', '-idf', 'p', '-F', '-n', '-1']:8.604537963867188
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', '3_run_results.txt', '-m', 'p', '-tf', 'a', '-idf', 'p', '-F']:8.830639600753784
+['main.py', '-s', 'stop_list.txt', '-c', 'documents.txt', '-i', 'william.txt', '-o', 'best_run_results.txt', '-tf', 'n', '-idf', 't', '-m', 'p', '-F', '-n', '-1']:7.144543647766113
